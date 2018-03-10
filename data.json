@@ -1,9 +1,37 @@
 {
-"basics":{
-  "photo":"desert.jpg",
-"name":"sai",
-"phone":"9988774455",
-"email":"saiguddeti99@gmail.com",
-"Address":"kkota"
-}
-}
+  "basics":{
+    "photo":"desert.jpg",
+    "name":"Sai",
+    "phone":"9912345678",
+    "email":"saiguddeti99@gmail.com",
+    "Address":"kkota,west godavri,AP"
+
+
+},
+"education" :[{
+  "course":"B.Tech(computer science and engineering)",
+  "institute":"CR Reddy Engineering college",
+  "data":["2015-2019","75%"]
+  },
+  {
+    "course":"Inter(MPC)",
+    "institute":"Sri Chaitanya college",
+    "data":["2013-2015","94%"]
+  },
+  {
+    "course":"SSC",
+    "institute":"Siddhartha Vidhyalaya",
+    "data":["2012-2013","88%"]
+  }
+],
+     "skills":[
+       {
+         "name":"Languages",
+         "data":["C","JAVA","PHP"]
+       },
+       {
+         "name":"OS",
+         "data":["Windows","Linux","Unix"]
+       }
+     ]
+   }
